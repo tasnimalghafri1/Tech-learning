@@ -1,0 +1,1 @@
+Web development involves building and maintaining websites and web applications. It includes different parts that work together to deliver content, features, and services to users. In this document, I explain the main parts of web development
