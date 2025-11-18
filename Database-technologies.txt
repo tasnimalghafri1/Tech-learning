@@ -1,0 +1,39 @@
+MySQL
+
+A relational database (SQL).
+
+Stores data in tables with rows and columns.
+
+Good for apps that need structured data and relationships (e.g., users, orders).
+
+Very popular for web applications (e.g., WordPress).
+
+Supports ACID transactions for reliability.
+
+Fast read performance and easy to use.
+
+MongoDB
+
+A NoSQL database.
+
+Stores data in documents (JSON-like format).
+
+Great for unstructured or changing data.
+
+Flexible — no fixed table schema.
+
+Scales easily across many servers (horizontal scaling).
+
+Good for real-time apps, big data, and flexible data models.
+
+PostgreSQL
+
+A powerful relational database (SQL).
+
+Known for being highly advanced and feature-rich.
+
+Supports complex queries, custom functions, GIS data (PostGIS), etc.
+
+Very reliable and follows ACID strictly.
+
+Good for enterprise systems needing complex logic.
