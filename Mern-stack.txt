@@ -1,0 +1,3 @@
+Frontend: React.js is used to build dynamic user interfaces.
+Backend: Node.js with Express.js handles server logic and APIs.
+Database: MongoDB is used as a NoSQL document database.

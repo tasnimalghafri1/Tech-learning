@@ -1,0 +1,3 @@
+Frontend: Can use Thymeleaf templates or a separate frontend like React/Angular.
+Backend: Spring Boot (Java) provides fast and powerful backend development.
+Database: Works with relational databases like MySQL or PostgreSQL.

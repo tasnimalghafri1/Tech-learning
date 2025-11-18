@@ -1,0 +1,3 @@
+Frontend: ASP.NET MVC or Blazor is used to build the UI.
+Backend: .NET Core/.NET Framework handles backend logic and API development.
+Database: MSSQL Server is commonly used as the database.
