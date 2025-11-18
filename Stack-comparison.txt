@@ -2,6 +2,12 @@ This document compares popular development stacks and their strengths.
 Different stacks are suitable for different types of projects.
 This report highlights the differences between MERN, .NET, and Spring Boot.
 
+ HEAD
 MERN vs Spring Boot:
 MERN is easier for full JavaScript developers.
 Spring Boot is powerful for enterprise Java applications with strong security.
+
+MERN vs .NET:
+MERN is JavaScript-based and good for fast, scalable web apps.
+.NET is enterprise-friendly, strongly typed, and great for large systems.
+d7f616a6e9517bbe751864078f50cc67fd411049
