@@ -1,3 +1,7 @@
 Web development involves building and maintaining websites and web applications. It includes different parts that work together to deliver content, features, and services to users. In this document, I explain the main parts of web development
 
 The frontend is the part of a web application that users interact with directly. It includes everything the user sees on the screen, such as buttons, text, images, and layouts. Frontend development uses HTML, CSS, and JavaScript to build the user interface. Modern frontend development often uses frameworks like React, Angular, or Vue. Its main goal is to create a smooth and responsive user experience.
+
+The backend is the server-side part of a web application. It handles business logic, processes data, and communicates with the database. The backend also manages user authentication, permissions, and server operations. Technologies used include Node.js, Python, Java, and PHP. Backend ensures that everything behind the scenes works correctly.
+
+A database stores and organizes information used by a web application. It allows the backend to retrieve, update, and manage data efficiently. Databases can be relational, like MySQL or PostgreSQL, or non-relational, like MongoDB. They play a key role in storing user accounts, products, messages, and more. Without a database, most web applications could not function.
