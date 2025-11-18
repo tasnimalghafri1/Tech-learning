@@ -11,3 +11,6 @@ MERN vs .NET:
 MERN is JavaScript-based and good for fast, scalable web apps.
 .NET is enterprise-friendly, strongly typed, and great for large systems.
 d7f616a6e9517bbe751864078f50cc67fd411049
+
+Conclusion:
+Each stack has unique strengths, and the best choice depends on project needs.
