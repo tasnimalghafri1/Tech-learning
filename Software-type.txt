@@ -1,2 +1,3 @@
 Software comes in different types based on what it does. System software runs the computer and manages its hardware, while application software helps users perform everyday tasks like typing or browsing. Utility software supports the system by keeping it clean, safe, and efficient.
 Mobile applications are apps designed to run on smartphones and tablets for quick, on-the-go use.
+Desktop applications run on computers and offer powerful features for work, creativity, and productivity.
